@@ -1,0 +1,53 @@
+.container{
+    margin-left:155px;
+}
+.buttons{
+    display:flex;
+    gap:30px;
+}
+.but{
+    margin-top:10px;
+    border-radius:5px;
+     width:220px;
+    height:35px;
+    background-color:black;
+    color:white;
+   }
+    .email{
+        border-radius:5px;
+        margin-top:15px;
+        height:37px;
+        width:470px;
+    background-color: white;
+    color:black;
+   }
+   .icon{
+    margin-left:-160px;
+    height:20px;
+    width:30px;
+    margin-top:5px;
+   }
+    h3{
+    margin-top:-22px;
+    margin-left:10px;
+   }
+   .icon2{
+    margin-left:-100px;
+    height:20px;
+    width:30px;
+    margin-top:5px;
+   }
+    .outer{
+    display:flex;
+    gap:63px;
+   } 
+   .image{
+    height:0px;
+    width:0px;
+   }
+   .image img{
+    overflow: hidden;
+   margin-top:-40px;
+    height:490px;
+    width:500px;
+   }
