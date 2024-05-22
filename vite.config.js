@@ -9,5 +9,6 @@ export default defineConfig({
     rollupOptions: {
       external: ['react-icons/md']
     }
-  }
+  },
+  base: '/' 
 })
